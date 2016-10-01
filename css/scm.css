@@ -1,11 +1,11 @@
 #player,#player a{ color:#000;}
-#player{ background:url(https://67.media.tumblr.com/6986101b9ce52e692b61142a7c1d02ad/tumblr_inline_oed2e0Sb0C1unuhcn_540.png); background-position:bottom; background-color: #838081;}
-#player .mainImage{background:url(https://66.media.tumblr.com/d00838880e5f26932e60b02638bdad80/tumblr_inline_oed2znBLjb1unuhcn_540.png); }
+#player{ background:url(http://static.tumblr.com/sbxkdxg/DpQm9du5i/cinzanormal.bmp); background-position:bottom; background-color: #C5C0C0;}
+#player .mainImage{background:url(http://static.tumblr.com/sbxkdxg/Owum9dldi/normalcinzaplayer.png); }
 
 #player #baseLeft{ width:93px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:26px; }
-#player #play{ background:url(https://65.media.tumblr.com/c08150cf5829b902130a62c9d6a35ca1/tumblr_inline_oed294jZ2A1unuhcn_540.png); }
+#player #play{ background:url(http://static.tumblr.com/sbxkdxg/VJnm9dlgv/pausacinza.png); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
@@ -15,7 +15,7 @@
 #player #list{ right:0px; }
 
 #player #seeker{ right:320px; }
-#player #seekerBase{ border-color:#838081;  }
+#player #seekerBase{ border-color:#AEAEAE;  }
 #player #seekerBuffered{ background-color:#fff; }
 #player #seekerSliderBase{ background-color:#fff; }
 
@@ -23,8 +23,8 @@
 #player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/sbxkdxg/xzXm9bwkf/sizerandvolj_copycinza2.png); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#fff;}
-#playlist .module{  color:#333; background-color:#838081; }
-#playlist h3{ background:url(); color:#000; background-color:#838081;  }
-#playlist .even{background-color:#838081;}
-#playlist .odd{ background-color:#838081;}
-#playlist .focus{ background-color:#fff; color:#838081;}
+#playlist .module{  color:#333; background-color:#AEAEAE; }
+#playlist h3{ background:url(); color:#000; background-color:#AEAEAE;  }
+#playlist .even{background-color:#AEAEAE;}
+#playlist .odd{ background-color:#AEAEAE;}
+#playlist .focus{ background-color:#fff; color:#AEAEAE;}
